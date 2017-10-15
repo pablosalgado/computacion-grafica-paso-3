@@ -5,6 +5,7 @@ Codigo fuente para los ejercicios del paso 3 de Computacin Gráfica.
 
 Se requiere:
 
-Netbeans 8.2, con el plugin de Maven instalado
-JDK 8
+* Netbeans 8.2, con el plugin de Maven instalado
+
+* JDK 8
 
