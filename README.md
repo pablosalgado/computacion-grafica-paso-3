@@ -1,7 +1,7 @@
 # computacion-grafica-paso-3
 Proyecto de Computación Gráfica - UNAD
 
-Codigo fuente para los ejercicios del paso 3 de Computacin Gráfica.
+Codigo fuente para los ejercicios del paso 3 de Computación Gráfica.
 
 Se requiere:
 
